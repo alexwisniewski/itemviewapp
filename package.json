@@ -14,7 +14,8 @@
   "dependencies": {
     "@mondaycom/apps-sdk": "^2.1.2",
     "@vibe/core": "^3.19.0",
-    "monday-sdk-js": "^0.5.5"
+    "monday-sdk-js": "^0.5.5",
+    "parse-gitignore": "^2.0.0"
   },
   "eslintConfig": {
     "extends": "react-app"
